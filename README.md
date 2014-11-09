@@ -1,10 +1,10 @@
-Crash-Landing-HQM-Pack Beta
+﻿Crash-Landing-HQM-Pack Beta
 ======================
 
-Note:This beta includes both the quick fixes so you only need to creat a new instance with the files
+Note:This beta includes both the quick fixes so you only need to create a new instance with the files.
 
-Ok everyone, here it is at last Beta 2. 
-I wanted to have a finished Beta at this time, but due to the amount of work that was needed and a few unforseen problems I wasn’t able to finish it.
+OK everyone, here it is at last Beta 2. 
+I wanted to have a finished Beta at this time, but due to the amount of work that was needed and a few unforeseen problems I wasn’t able to finish it.
 There are a few things I know I need to do, but instead of waiting even longer to release I want to go ahead and let you all try to break what I’ve gotten done so far, while I finish up. The big things I need to know about:
 
 1. Are the city spawn rates good? I want you to have to look for them, but not have it be impossible to find them.
@@ -23,7 +23,6 @@ Change Log
 • 2 new lone buildings (WIP). May add more later
 • New quest and salvage system
 • Updated Enviromine
-• Added Mob Spawn Controls 2 to remove bats, because there have been a lot of complaints over them. This mod also gives control over what mobs spawn and their spawn rate. I may do more with this latter on
 • Fixed mob spawn rate
 • Adjusted Big Reactors recipes
 • Fixed Wither Skeletons not dropping necrotic bones
