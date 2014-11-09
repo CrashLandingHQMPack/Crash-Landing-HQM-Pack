@@ -1,0 +1,17 @@
+   {
+    	id: 3508,
+    	nameid: "TurbineControlBroken",
+    	name: "Turbine Control Broken",
+    	rarity: 100,
+    	vein: 10,
+    	height: 10,
+    	range: 5,
+    	
+    	biomes:
+    	[
+    		{
+    			biometype: FOREST
+    		}
+    	]
+    }
+
